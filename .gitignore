@@ -243,3 +243,8 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+ConsoleApplication5/ConsoleApplication5.vcxproj.filters
+*.vcxproj
+ConsoleApplication5/Source1.cpp
+*.filters
+ConsoleApplication5/ConsoleApplication5.vcxproj
